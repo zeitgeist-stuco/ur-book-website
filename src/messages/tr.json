@@ -14,7 +14,8 @@
   "pricing": {
     "title": "Paketlerimiz", "digitalName": "Dijital", "digitalPrice": "179 €", "premiumName": "Premium", "premiumPrice": "199 €",
     "recommended": "Önerilen", "feature1": "Yapay Zeka Röportajı", "feature2": "Kişisel Biyografi", "feature3": "PDF İhracatı",
-    "feature4": "Basılı Kitap (eve teslimat)", "cta": "Başla", "note": "Tek seferlik ödeme. Abonelik yok."
+    "feature4": "Basılı Kitap (eve teslimat)", "cta": "Başla", "note": "Tek seferlik ödeme. Abonelik yok.",
+    "badge1": "KVKK uyumlu", "badge2": "14 günlük cayma hakkı", "badge3": "Gizli maliyet yok"
   },
   "faq": {
     "title": "Sık Sorulan Sorular",
@@ -30,5 +31,7 @@
     "impressum": "Künye", "datenschutz": "Gizlilik", "agb": "Şartlar",
     "copyright": "© 2025 Henri Hassepass. Tüm hakları saklıdır.", "language": "Dil"
   },
-  "legal": { "onlyDeEn": "Bu sayfa yalnızca Almanca ve İngilizce olarak mevcuttur." }
+  "legal": { "onlyDeEn": "Bu sayfa yalnızca Almanca ve İngilizce olarak mevcuttur." },
+  "testimonials": { "title": "Diğerleri ne diyor" },
+  "stickybar": { "tagline": "Hikayeniz, gerçek bir kitap olarak.", "cta": "Başla" }
 }

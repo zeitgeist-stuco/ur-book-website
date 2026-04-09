@@ -14,7 +14,8 @@
   "pricing": {
     "title": "Nos forfaits", "digitalName": "Numérique", "digitalPrice": "179 €", "premiumName": "Premium", "premiumPrice": "199 €",
     "recommended": "Recommandé", "feature1": "Entretien IA", "feature2": "Biographie personnelle", "feature3": "Export PDF",
-    "feature4": "Livre imprimé (livraison à domicile)", "cta": "Commencer", "note": "Prix unique. Sans abonnement."
+    "feature4": "Livre imprimé (livraison à domicile)", "cta": "Commencer", "note": "Prix unique. Sans abonnement.",
+    "badge1": "Conforme RGPD", "badge2": "14 jours de rétractation", "badge3": "Aucun frais caché"
   },
   "faq": {
     "title": "Questions fréquentes",
@@ -30,5 +31,7 @@
     "impressum": "Mentions légales", "datenschutz": "Confidentialité", "agb": "CGV",
     "copyright": "© 2025 Henri Hassepass. Tous droits réservés.", "language": "Langue"
   },
-  "legal": { "onlyDeEn": "Cette page n'est disponible qu'en allemand et en anglais." }
+  "legal": { "onlyDeEn": "Cette page n'est disponible qu'en allemand et en anglais." },
+  "testimonials": { "title": "Ce que disent les autres" },
+  "stickybar": { "tagline": "Votre histoire, en vrai livre.", "cta": "Commencer" }
 }

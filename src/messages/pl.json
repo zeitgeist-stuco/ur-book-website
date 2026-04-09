@@ -14,7 +14,8 @@
   "pricing": {
     "title": "Nasze pakiety", "digitalName": "Cyfrowy", "digitalPrice": "179 €", "premiumName": "Premium", "premiumPrice": "199 €",
     "recommended": "Polecany", "feature1": "Wywiad AI", "feature2": "Osobista biografia", "feature3": "Eksport PDF",
-    "feature4": "Drukowana książka (dostawa do domu)", "cta": "Zacznij", "note": "Jednorazowa cena. Bez abonamentu."
+    "feature4": "Drukowana książka (dostawa do domu)", "cta": "Zacznij", "note": "Jednorazowa cena. Bez abonamentu.",
+    "badge1": "Zgodny z RODO", "badge2": "14 dni na odstąpienie", "badge3": "Brak ukrytych kosztów"
   },
   "faq": {
     "title": "Często zadawane pytania",
@@ -30,5 +31,7 @@
     "impressum": "Impressum", "datenschutz": "Prywatność", "agb": "Regulamin",
     "copyright": "© 2025 Henri Hassepass. Wszelkie prawa zastrzeżone.", "language": "Język"
   },
-  "legal": { "onlyDeEn": "Ta strona jest dostępna tylko w języku niemieckim i angielskim." }
+  "legal": { "onlyDeEn": "Ta strona jest dostępna tylko w języku niemieckim i angielskim." },
+  "testimonials": { "title": "Co mówią inni" },
+  "stickybar": { "tagline": "Twoja historia, jako prawdziwa książka.", "cta": "Zacznij" }
 }
