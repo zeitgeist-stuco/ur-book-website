@@ -32,6 +32,17 @@
     "copyright": "© 2025 Henri Hassepass. Tüm hakları saklıdır.", "language": "Dil"
   },
   "legal": { "onlyDeEn": "Bu sayfa yalnızca Almanca ve İngilizce olarak mevcuttur." },
-  "testimonials": { "title": "Diğerleri ne diyor" },
+  "testimonials": {
+    "title": "Diğerleri ne diyor",
+    "quote1": "Hikayemin bu kadar canlı olabileceğini asla düşünmedim. Kitap tüm aile için bir hazine.",
+    "name1": "Maria S.",
+    "city1": "Hamburg",
+    "quote2": "Yapay zeka bana hiç kendime sormadığım sorular sordu. Sonuç beni gözyaşlarına boğdu.",
+    "name2": "Klaus W.",
+    "city2": "Münih",
+    "quote3": "Babamın 75. doğum günü için mükemmel bir hediye. Hala onu okuyor.",
+    "name3": "Sandra K.",
+    "city3": "Viyana"
+  },
   "stickybar": { "tagline": "Hikayeniz, gerçek bir kitap olarak.", "cta": "Başla" }
 }

@@ -32,6 +32,17 @@
     "copyright": "© 2025 Henri Hassepass. Wszelkie prawa zastrzeżone.", "language": "Język"
   },
   "legal": { "onlyDeEn": "Ta strona jest dostępna tylko w języku niemieckim i angielskim." },
-  "testimonials": { "title": "Co mówią inni" },
+  "testimonials": {
+    "title": "Co mówią inni",
+    "quote1": "Nigdy nie myślałem, że moja historia może brzmieć tak żywo. Książka jest skarbem dla całej rodziny.",
+    "name1": "Maria S.",
+    "city1": "Hamburg",
+    "quote2": "AI zadawał mi pytania, których nigdy sobie nie stawiałem. Wynik poruszył mnie do łez.",
+    "name2": "Klaus W.",
+    "city2": "Monachium",
+    "quote3": "Doskonały prezent dla mojego ojca na jego 75. urodziny. Wciąż to czyta.",
+    "name3": "Sandra K.",
+    "city3": "Wiedeń"
+  },
   "stickybar": { "tagline": "Twoja historia, jako prawdziwa książka.", "cta": "Zacznij" }
 }
