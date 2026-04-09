@@ -75,6 +75,27 @@ export function Pricing() {
         </div>
 
         <p className="text-center text-sm text-[#A89282] mt-8">{t('note')}</p>
+
+        <div className="flex flex-wrap justify-center gap-6 mt-6">
+          <div className="flex items-center gap-1.5 text-xs text-[#A89282]">
+            <svg className="w-4 h-4 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+              <path strokeLinecap="round" strokeLinejoin="round" d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 00-2.25 2.25v6.75a2.25 2.25 0 002.25 2.25z" />
+            </svg>
+            {t('badge1')}
+          </div>
+          <div className="flex items-center gap-1.5 text-xs text-[#A89282]">
+            <svg className="w-4 h-4 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+              <path strokeLinecap="round" strokeLinejoin="round" d="M9 15L3 9m0 0l6-6M3 9h12a6 6 0 010 12h-3" />
+            </svg>
+            {t('badge2')}
+          </div>
+          <div className="flex items-center gap-1.5 text-xs text-[#A89282]">
+            <svg className="w-4 h-4 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+              <path strokeLinecap="round" strokeLinejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+            {t('badge3')}
+          </div>
+        </div>
       </div>
     </section>
   )
