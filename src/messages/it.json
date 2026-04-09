@@ -1,0 +1,34 @@
+{
+  "nav": { "howItWorks": "Come funziona", "pricing": "Prezzi", "faq": "FAQ", "start": "Inizia" },
+  "hero": {
+    "headline": "La tua storia di vita come un vero libro",
+    "subtext": "Con interviste basate sull'IA, Zeitgeist ti aiuta a conservare i tuoi ricordi come biografia personale — e a riceverla a casa come libro stampato.",
+    "cta": "Inizia", "ctaSecondary": "Scopri di più"
+  },
+  "how": {
+    "title": "Come funziona",
+    "step1Title": "Intervista IA", "step1Text": "Rispondi a domande sulla tua vita. L'IA ti guida attraverso infanzia, carriera, famiglia e altro ancora.",
+    "step2Title": "Genera la biografia", "step2Text": "Le tue risposte vengono automaticamente trasformate in una biografia personale e letteraria.",
+    "step3Title": "Ricevi il tuo libro", "step3Text": "Scarica la tua biografia in PDF o fatti consegnare un libro stampato a casa."
+  },
+  "pricing": {
+    "title": "I nostri pacchetti", "digitalName": "Digitale", "digitalPrice": "179 €", "premiumName": "Premium", "premiumPrice": "199 €",
+    "recommended": "Consigliato", "feature1": "Intervista IA", "feature2": "Biografia personale", "feature3": "Esportazione PDF",
+    "feature4": "Libro stampato (consegna a domicilio)", "cta": "Inizia", "note": "Prezzo unico. Nessun abbonamento."
+  },
+  "faq": {
+    "title": "Domande frequenti",
+    "q1": "Quanto dura l'intervista?", "a1": "L'intervista può durare quanto vuoi — tipicamente 3-10 ore distribuite su più sessioni.",
+    "q2": "In quale lingua posso scrivere la mia biografia?", "a2": "Zeitgeist supporta attualmente tedesco, inglese, francese, spagnolo, italiano, polacco, turco e russo.",
+    "q3": "Come viene stampato e consegnato il libro?", "a3": "Il libro viene stampato e rilegato professionalmente. La consegna richiede 10-14 giorni lavorativi.",
+    "q4": "Posso modificare la mia biografia in seguito?", "a4": "Sì, puoi modificare la tua biografia in qualsiasi momento nell'app.",
+    "q5": "Come vengono protetti i miei dati?", "a5": "I tuoi dati sono archiviati in modo crittografato e non vengono mai condivisi con terze parti.",
+    "q6": "Cosa succede se non sono soddisfatto?", "a6": "Hai 14 giorni di diritto di recesso dopo l'acquisto. Contattaci a support.zeitgeist@gmail.com."
+  },
+  "footer": {
+    "tagline": "La tua storia di vita merita di essere raccontata.", "product": "Prodotto", "legal": "Legale", "contact": "Contatto",
+    "impressum": "Note legali", "datenschutz": "Privacy", "agb": "Termini",
+    "copyright": "© 2025 Henri Hassepass. Tutti i diritti riservati.", "language": "Lingua"
+  },
+  "legal": { "onlyDeEn": "Questa pagina è disponibile solo in tedesco e inglese." }
+}

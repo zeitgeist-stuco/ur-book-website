@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "howItWorks": "How it works",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "start": "Get started"
+  },
+  "hero": {
+    "headline": "Your Life Story as a Real Book",
+    "subtext": "With AI-powered interviews, Zeitgeist helps you preserve your memories as a personal biography — and ship it to your door as a printed book.",
+    "cta": "Get started",
+    "ctaSecondary": "Learn more"
+  },
+  "how": {
+    "title": "How it works",
+    "step1Title": "AI Interview",
+    "step1Text": "Answer questions about your life. The AI guides you through childhood, career, family and more.",
+    "step2Title": "Generate Biography",
+    "step2Text": "Your answers are automatically turned into a personal, literary biography.",
+    "step3Title": "Receive Your Book",
+    "step3Text": "Download your biography as a PDF or have a printed book delivered to your door."
+  },
+  "pricing": {
+    "title": "Our Packages",
+    "digitalName": "Digital",
+    "digitalPrice": "€179",
+    "premiumName": "Premium",
+    "premiumPrice": "€199",
+    "recommended": "Recommended",
+    "feature1": "AI Interview",
+    "feature2": "Personal Biography",
+    "feature3": "PDF Export",
+    "feature4": "Printed Book (home delivery)",
+    "cta": "Get started",
+    "note": "One-time price. No subscriptions."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "How long does the interview take?",
+    "a1": "The interview can take as long as you like — typically 3–10 hours spread across multiple sessions. You can pause and continue at any time.",
+    "q2": "What language can I write my biography in?",
+    "a2": "Zeitgeist currently supports German, English, French, Spanish, Italian, Polish, Turkish and Russian.",
+    "q3": "How is the book printed and delivered?",
+    "a3": "The book is professionally printed and bound. Delivery takes 10–14 working days within Germany and the EU.",
+    "q4": "Can I edit my biography later?",
+    "a4": "Yes, you can edit your biography at any time in the app and generate a new version.",
+    "q5": "How is my data protected?",
+    "a5": "Your data is stored encrypted and never shared with third parties. We only store what is necessary for creating your biography.",
+    "q6": "What if I'm not satisfied?",
+    "a6": "You have a 14-day right of withdrawal after purchase. For any questions, contact us at support.zeitgeist@gmail.com."
+  },
+  "footer": {
+    "tagline": "Your life story deserves to be told.",
+    "product": "Product",
+    "legal": "Legal",
+    "contact": "Contact",
+    "impressum": "Imprint",
+    "datenschutz": "Privacy Policy",
+    "agb": "Terms",
+    "copyright": "© 2025 Henri Hassepass. All rights reserved.",
+    "language": "Language"
+  },
+  "legal": {
+    "onlyDeEn": "This page is only available in German and English."
+  }
+}

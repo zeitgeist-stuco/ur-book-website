@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "howItWorks": "So funktioniert's",
+    "pricing": "Preise",
+    "faq": "FAQ",
+    "start": "Jetzt starten"
+  },
+  "hero": {
+    "headline": "Deine Lebensgeschichte als echtes Buch",
+    "subtext": "Mit KI-gestützten Interviews hilft dir Zeitgeist, deine Erinnerungen als persönliche Biographie festzuhalten — und als gedrucktes Buch nach Hause zu schicken.",
+    "cta": "Jetzt starten",
+    "ctaSecondary": "Mehr erfahren"
+  },
+  "how": {
+    "title": "So funktioniert's",
+    "step1Title": "KI-Interview",
+    "step1Text": "Beantworte Fragen zu deinem Leben. Die KI führt dich durch Kindheit, Karriere, Familie und mehr.",
+    "step2Title": "Biographie generieren",
+    "step2Text": "Aus deinen Antworten entsteht automatisch eine persönliche, literarische Biographie.",
+    "step3Title": "Buch erhalten",
+    "step3Text": "Lade deine Biographie als PDF herunter oder lass dir ein gedrucktes Buch nach Hause schicken."
+  },
+  "pricing": {
+    "title": "Unsere Pakete",
+    "digitalName": "Digital",
+    "digitalPrice": "179 €",
+    "premiumName": "Premium",
+    "premiumPrice": "199 €",
+    "recommended": "Empfohlen",
+    "feature1": "KI-Interview",
+    "feature2": "Persönliche Biographie",
+    "feature3": "PDF-Export",
+    "feature4": "Gedrucktes Buch (Lieferung nach Hause)",
+    "cta": "Jetzt starten",
+    "note": "Einmaliger Preis. Keine Abonnements."
+  },
+  "faq": {
+    "title": "Häufige Fragen",
+    "q1": "Wie lange dauert das Interview?",
+    "a1": "Das Interview kann so lange dauern wie du möchtest — typischerweise 3–10 Stunden über mehrere Sessions verteilt. Du kannst jederzeit pausieren und weitermachen.",
+    "q2": "In welcher Sprache kann ich meine Biographie schreiben?",
+    "a2": "Aktuell unterstützt Zeitgeist Deutsch, Englisch, Französisch, Spanisch, Italienisch, Polnisch, Türkisch und Russisch.",
+    "q3": "Wie wird das Buch gedruckt und geliefert?",
+    "a3": "Das Buch wird professionell gedruckt und gebunden. Die Lieferung erfolgt innerhalb von 10–14 Werktagen nach Deutschland und in die EU.",
+    "q4": "Kann ich meine Biographie nachträglich bearbeiten?",
+    "a4": "Ja, du kannst deine Biographie jederzeit in der App bearbeiten und eine neue Version generieren lassen.",
+    "q5": "Wie werden meine Daten geschützt?",
+    "a5": "Deine Daten werden verschlüsselt gespeichert und niemals an Dritte weitergegeben. Wir speichern nur, was für die Erstellung deiner Biographie notwendig ist.",
+    "q6": "Was passiert, wenn ich nicht zufrieden bin?",
+    "a6": "Du hast 14 Tage Widerrufsrecht nach Kauf. Bei Fragen melde dich jederzeit unter support.zeitgeist@gmail.com."
+  },
+  "footer": {
+    "tagline": "Deine Lebensgeschichte verdient es, erzählt zu werden.",
+    "product": "Produkt",
+    "legal": "Rechtliches",
+    "contact": "Kontakt",
+    "impressum": "Impressum",
+    "datenschutz": "Datenschutz",
+    "agb": "AGB",
+    "copyright": "© 2025 Henri Hassepass. Alle Rechte vorbehalten.",
+    "language": "Sprache"
+  },
+  "legal": {
+    "onlyDeEn": "Diese Seite ist nur auf Deutsch und Englisch verfügbar."
+  }
+}

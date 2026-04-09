@@ -1,0 +1,34 @@
+{
+  "nav": { "howItWorks": "Nasıl çalışır", "pricing": "Fiyatlar", "faq": "SSS", "start": "Başla" },
+  "hero": {
+    "headline": "Hayat Hikayeniz Gerçek Bir Kitap Olarak",
+    "subtext": "Yapay zeka destekli röportajlarla Zeitgeist, anılarınızı kişisel bir biyografi olarak saklamanıza ve basılı kitap olarak evinize göndermenize yardımcı olur.",
+    "cta": "Başla", "ctaSecondary": "Daha fazla bilgi"
+  },
+  "how": {
+    "title": "Nasıl çalışır",
+    "step1Title": "Yapay Zeka Röportajı", "step1Text": "Hayatınız hakkındaki soruları yanıtlayın. Yapay zeka sizi çocukluk, kariyer, aile ve daha fazlası boyunca yönlendirir.",
+    "step2Title": "Biyografi Oluştur", "step2Text": "Yanıtlarınız otomatik olarak kişisel, edebi bir biyografiye dönüştürülür.",
+    "step3Title": "Kitabınızı Alın", "step3Text": "Biyografinizi PDF olarak indirin veya basılı kitap olarak evinize teslim ettirin."
+  },
+  "pricing": {
+    "title": "Paketlerimiz", "digitalName": "Dijital", "digitalPrice": "179 €", "premiumName": "Premium", "premiumPrice": "199 €",
+    "recommended": "Önerilen", "feature1": "Yapay Zeka Röportajı", "feature2": "Kişisel Biyografi", "feature3": "PDF İhracatı",
+    "feature4": "Basılı Kitap (eve teslimat)", "cta": "Başla", "note": "Tek seferlik ödeme. Abonelik yok."
+  },
+  "faq": {
+    "title": "Sık Sorulan Sorular",
+    "q1": "Röportaj ne kadar sürer?", "a1": "Röportaj istediğiniz kadar sürebilir — genellikle birden fazla oturuma yayılmış 3-10 saat.",
+    "q2": "Biyografimi hangi dilde yazabilirim?", "a2": "Zeitgeist şu anda Almanca, İngilizce, Fransızca, İspanyolca, İtalyanca, Lehçe, Türkçe ve Rusçayı desteklemektedir.",
+    "q3": "Kitap nasıl basılır ve teslim edilir?", "a3": "Kitap profesyonelce basılır ve ciltlenir. Teslimat 10-14 iş günü sürer.",
+    "q4": "Biyografimi daha sonra düzenleyebilir miyim?", "a4": "Evet, biyografinizi istediğiniz zaman uygulamada düzenleyebilirsiniz.",
+    "q5": "Verilerim nasıl korunur?", "a5": "Verileriniz şifreli olarak saklanır ve hiçbir zaman üçüncü taraflarla paylaşılmaz.",
+    "q6": "Memnun olmazsam ne olur?", "a6": "Satın alımdan sonra 14 günlük cayma hakkınız vardır. support.zeitgeist@gmail.com adresinden bize ulaşın."
+  },
+  "footer": {
+    "tagline": "Hayat hikayeniz anlatılmayı hak ediyor.", "product": "Ürün", "legal": "Yasal", "contact": "İletişim",
+    "impressum": "Künye", "datenschutz": "Gizlilik", "agb": "Şartlar",
+    "copyright": "© 2025 Henri Hassepass. Tüm hakları saklıdır.", "language": "Dil"
+  },
+  "legal": { "onlyDeEn": "Bu sayfa yalnızca Almanca ve İngilizce olarak mevcuttur." }
+}
