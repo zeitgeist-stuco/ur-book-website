@@ -5,7 +5,7 @@ export function Hero() {
   const t = useTranslations('hero')
 
   return (
-    <section className="relative overflow-hidden" style={{ background: 'linear-gradient(135deg, #FEF8EE 0%, #FAF6F0 50%, #FDF0D5 100%)' }}>
+    <section id="hero-section" className="relative overflow-hidden" style={{ background: 'linear-gradient(135deg, #FEF8EE 0%, #FAF6F0 50%, #FDF0D5 100%)' }}>
       <div className="max-w-6xl mx-auto px-4 sm:px-6 py-24 lg:py-32">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           {/* Text */}
