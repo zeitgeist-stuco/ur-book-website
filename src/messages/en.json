@@ -32,7 +32,10 @@
     "feature3": "PDF Export",
     "feature4": "Printed Book (home delivery)",
     "cta": "Get started",
-    "note": "One-time price. No subscriptions."
+    "note": "One-time price. No subscriptions.",
+    "badge1": "GDPR compliant",
+    "badge2": "14-day withdrawal right",
+    "badge3": "No hidden costs"
   },
   "faq": {
     "title": "Frequently Asked Questions",
@@ -62,5 +65,21 @@
   },
   "legal": {
     "onlyDeEn": "This page is only available in German and English."
+  },
+  "testimonials": {
+    "title": "What others say",
+    "quote1": "I never thought my story could sound so vivid. The book is a treasure for the whole family.",
+    "name1": "Maria S.",
+    "city1": "Hamburg",
+    "quote2": "The AI asked me questions I had never asked myself. The result moved me to tears.",
+    "name2": "Klaus W.",
+    "city2": "Munich",
+    "quote3": "A perfect gift for my father on his 75th birthday. He is still reading it.",
+    "name3": "Sandra K.",
+    "city3": "Vienna"
+  },
+  "stickybar": {
+    "tagline": "Your story, as a real book.",
+    "cta": "Get started"
   }
 }

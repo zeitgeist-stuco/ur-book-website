@@ -32,7 +32,10 @@
     "feature3": "PDF-Export",
     "feature4": "Gedrucktes Buch (Lieferung nach Hause)",
     "cta": "Jetzt starten",
-    "note": "Einmaliger Preis. Keine Abonnements."
+    "note": "Einmaliger Preis. Keine Abonnements.",
+    "badge1": "DSGVO-konform",
+    "badge2": "14 Tage Widerrufsrecht",
+    "badge3": "Keine versteckten Kosten"
   },
   "faq": {
     "title": "Häufige Fragen",
@@ -62,5 +65,21 @@
   },
   "legal": {
     "onlyDeEn": "Diese Seite ist nur auf Deutsch und Englisch verfügbar."
+  },
+  "testimonials": {
+    "title": "Was andere sagen",
+    "quote1": "Ich hätte nie gedacht, dass meine Geschichte so lebendig klingen kann. Das Buch ist ein Schatz für die ganze Familie.",
+    "name1": "Maria S.",
+    "city1": "Hamburg",
+    "quote2": "Die KI hat mir Fragen gestellt, die ich mir selbst nie gestellt hätte. Das Ergebnis hat mich zu Tränen gerührt.",
+    "name2": "Klaus W.",
+    "city2": "München",
+    "quote3": "Ein perfektes Geschenk für meinen Vater zum 75. Geburtstag. Er liest es immer noch.",
+    "name3": "Sandra K.",
+    "city3": "Wien"
+  },
+  "stickybar": {
+    "tagline": "Deine Geschichte, als echtes Buch.",
+    "cta": "Jetzt starten"
   }
 }
