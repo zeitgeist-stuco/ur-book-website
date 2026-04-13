@@ -19,7 +19,7 @@ export default async function AGBPage({ params }: { params: Promise<{ locale: st
           <p><strong>Digital (€179):</strong> AI-powered biography interview and generation of a personal biography as a PDF download.</p>
           <p><strong>Premium (€199):</strong> All Digital services plus a professionally printed and bound copy delivered to the Customer&apos;s address.</p>
           <h3>3. Contract Formation</h3>
-          <p>The contract is formed when the Customer completes the registration and payment process on zeitgeist-phi.vercel.app.</p>
+          <p>The contract is formed when the Customer completes the registration and payment process on app.ur-book.org.</p>
           <h3>4. Payment</h3>
           <p>Payment is due in full before service delivery. Accepted payment methods are listed at checkout.</p>
           <h3>5. Right of Withdrawal</h3>
@@ -42,7 +42,7 @@ export default async function AGBPage({ params }: { params: Promise<{ locale: st
           <p><strong>Digital (179 €):</strong> KI-gestütztes Biographie-Interview und Erstellung einer persönlichen Biographie als PDF-Download.</p>
           <p><strong>Premium (199 €):</strong> Alle Leistungen von Digital sowie ein professionell gedrucktes und gebundenes Exemplar per Lieferung an die Adresse des Käufers.</p>
           <h3>3. Vertragsschluss</h3>
-          <p>Der Vertrag kommt zustande, wenn der Käufer den Registrierungs- und Zahlungsvorgang auf zeitgeist-phi.vercel.app abschließt.</p>
+          <p>Der Vertrag kommt zustande, wenn der Käufer den Registrierungs- und Zahlungsvorgang auf app.ur-book.org abschließt.</p>
           <h3>4. Zahlung</h3>
           <p>Die Zahlung ist vollständig vor Leistungserbringung fällig. Akzeptierte Zahlungsmethoden werden beim Checkout angezeigt.</p>
           <h3>5. Widerrufsrecht</h3>

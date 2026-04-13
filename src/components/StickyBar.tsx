@@ -33,7 +33,7 @@ export function StickyBar() {
           {t('tagline')}
         </p>
         <a
-          href="https://zeitgeist-phi.vercel.app/register"
+          href="https://app.ur-book.org/register"
           className="sm:w-auto w-full text-center px-6 py-2.5 rounded-xl text-sm font-medium text-white flex-shrink-0 transition-opacity hover:opacity-90"
           style={{ background: '#CF7923' }}
         >

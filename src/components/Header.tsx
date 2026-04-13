@@ -82,7 +82,7 @@ export function Header() {
 
           {/* CTA */}
           <a
-            href="https://zeitgeist-phi.vercel.app/register"
+            href="https://app.ur-book.org/register"
             className="hidden sm:inline-flex items-center px-4 py-2 rounded-xl text-sm font-medium text-white transition-colors"
             style={{ background: '#CF7923' }}
           >
@@ -104,7 +104,7 @@ export function Header() {
           <a href="#wie-es-funktioniert" className="block text-sm text-[#6B5A4A] py-2" onClick={() => setMobileOpen(false)}>{t('howItWorks')}</a>
           <a href="#preise" className="block text-sm text-[#6B5A4A] py-2" onClick={() => setMobileOpen(false)}>{t('pricing')}</a>
           <a href="#faq" className="block text-sm text-[#6B5A4A] py-2" onClick={() => setMobileOpen(false)}>{t('faq')}</a>
-          <a href="https://zeitgeist-phi.vercel.app/register" className="block w-full text-center py-2.5 rounded-xl text-sm font-medium text-white" style={{ background: '#CF7923' }}>{t('start')}</a>
+          <a href="https://app.ur-book.org/register" className="block w-full text-center py-2.5 rounded-xl text-sm font-medium text-white" style={{ background: '#CF7923' }}>{t('start')}</a>
         </div>
       )}
     </header>

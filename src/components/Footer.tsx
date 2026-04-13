@@ -34,7 +34,7 @@ export function Footer() {
             <ul className="space-y-3">
               <li><a href="#wie-es-funktioniert" className="text-sm transition-colors" style={{ color: 'rgba(255,255,255,0.5)' }}>{tNav('howItWorks')}</a></li>
               <li><a href="#preise" className="text-sm transition-colors" style={{ color: 'rgba(255,255,255,0.5)' }}>{tNav('pricing')}</a></li>
-              <li><a href="https://zeitgeist-phi.vercel.app/register" className="text-sm transition-colors" style={{ color: 'rgba(255,255,255,0.5)' }}>{tNav('start')}</a></li>
+              <li><a href="https://app.ur-book.org/register" className="text-sm transition-colors" style={{ color: 'rgba(255,255,255,0.5)' }}>{tNav('start')}</a></li>
             </ul>
           </div>
 

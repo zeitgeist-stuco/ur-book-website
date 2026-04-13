@@ -127,7 +127,7 @@ export function Hero() {
 
               <div className="flex flex-col sm:flex-row gap-3">
                 <a
-                  href="https://zeitgeist-phi.vercel.app/register"
+                  href="https://app.ur-book.org/register"
                   className="inline-flex items-center justify-center px-6 py-3.5 rounded-xl font-medium text-white transition-colors shadow-sm"
                   style={{ background: '#CF7923' }}
                 >

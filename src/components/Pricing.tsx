@@ -37,7 +37,7 @@ export function Pricing() {
               </li>
             </ul>
             <a
-              href="https://zeitgeist-phi.vercel.app/register"
+              href="https://app.ur-book.org/register"
               className="w-full text-center py-3 rounded-xl font-medium text-sm border transition-colors"
               style={{ borderColor: '#E8D9C5', color: '#7A5C3D' }}
             >
@@ -65,7 +65,7 @@ export function Pricing() {
               ))}
             </ul>
             <a
-              href="https://zeitgeist-phi.vercel.app/register"
+              href="https://app.ur-book.org/register"
               className="w-full text-center py-3 rounded-xl font-medium text-sm text-white transition-colors"
               style={{ background: '#CF7923' }}
             >
